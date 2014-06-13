@@ -1,0 +1,6 @@
+StillMotion: The World's Cheesiest OSX Stop Motion Software
+
+Many years ago, say 2009 or so, a friend helped me climb the learning curve for XCode. After Hello World, my first project was Still Motion, a simple proof of concept. I found it today (6/13/2014) while preppiong to scrub the machine it was developed on, and decided to hand it out to the world.
+
+Operation is simple, start the app, select your webcam, click add frame until you've added all your frames, and use File:save or save as to save the mp4 or quicktime of your efforts.
+Enjoy
